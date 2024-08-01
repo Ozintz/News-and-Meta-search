@@ -27,7 +27,7 @@ The News & Metadata Search Application is a versatile tool designed to search fo
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/news-metadata-search.git
+   git clone https://github.com/Ozintz/News-and-Meta-search.git
    cd news-metadata-search
    ```
 
@@ -41,7 +41,7 @@ The News & Metadata Search Application is a versatile tool designed to search fo
 ### Run the Application
 
 ```sh
-python app.py
+python3 ozint34.py
 ```
 
 ## Search for News Articles
