@@ -44,16 +44,18 @@ The News & Metadata Search Application is a versatile tool designed to search fo
 python app.py
 ```
 
-Search for News Articles
-Enter the person's name, city, country, and keywords into the respective fields.
-Provide your NewsAPI key.
-Click on the "Search" button to fetch articles from the available sources.
-The results will be displayed in the results pane.
-Save Search Results
-Click on the "Save Results" button to save the fetched articles in JSON or CSV format.
-Extract Image Metadata
-Drag and drop an image file (PNG, JPG, JPEG) into the application window.
-The extracted metadata will be displayed in the results pane.
-Notes
-NewsAPI Key: You must provide your own NewsAPI key to use the news search functionality. You can obtain an API key by signing up at NewsAPI.
-Reverse Geocoding: The application uses OpenStreetMap's Nominatim service for reverse geocoding GPS coordinates extracted from image metadata.
+## Search for News Articles
+
+1. Enter the person's name, city, country, and keywords into the respective fields.
+2. Provide your NewsAPI key.
+3. Click on the "Search" button to fetch articles from the available sources.
+4. The results will be displayed in the results pane.
+
+## Save Search Results
+
+- Click on the "Save Results" button to save the fetched articles in JSON or CSV format.
+
+## Extract Image Metadata
+
+- Drag and drop an image file (PNG, JPG, JPEG) into the application window.
+- The extracted metadata will be displayed in the results pane.
